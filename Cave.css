@@ -7,13 +7,13 @@
 
 .parties-view
 {
-    background: url(https://de4-dev.github.io/Cavetheme.jpg) !important;
+    background: url(https://de4-dev.github.io/CaveTest.jpg) !important;
 }
 .parties-view .parties-background {
     opacity:0;
 }
 .collections-application{
-    background: url(https://de4-dev.github.io/Cavetheme.jpg) !important;
+    background: url(https://de4-dev.github.io/CaveTest.jpg) !important;
 }
 
 div[data-screen-name='rcp-fe-lol-navigation-screen'] {
